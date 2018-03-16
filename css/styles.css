@@ -1,0 +1,47 @@
+* {
+	/*border:1px solid green;*/
+}
+
+body {
+	background-image: xxxxxx;/* foto del parque */
+}
+
+#container {
+	width: 80%;
+	margin:0 auto;
+}
+
+#header {
+	margin:50px 0;
+	padding:100px 0;
+	height:400px;
+	background-image: url('../img/1.jpg');
+	text-align: center;
+}
+
+h1 {
+	font-size:92px;
+	color:white;
+}
+
+.quote {
+	height:200px;
+}
+
+h2 {
+	color:green;
+}
+
+#gallery {
+
+}
+
+.info {
+	
+	color:green;
+	font-size:28px;
+}
+
+footer{
+	width: 100%;
+}
