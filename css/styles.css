@@ -44,4 +44,23 @@ h2 {
 
 footer{
 	width: 100%;
+	position: relative;
+	padding-left: 50px;
 }
+/*iframe{
+	position: relative;
+}*/
+
+.icons{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	text-decoration: none;
+}
+
+.fa{
+	margin-left: 15px;
+	margin-right: 15px;
+	
+}
+
