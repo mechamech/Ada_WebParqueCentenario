@@ -44,13 +44,28 @@ footer{
 
 .icons{
 	position: absolute;
-	left: 50%;
-	top: 50%;
+	left: 5%;
+	bottom:-30%;
 	text-decoration: none;
 }
 
 .fa{
-	margin-left: 15px;
-	margin-right: 15px;	
+	margin-left: 10px;
+	margin-right: 10px;	
+	margin-bottom: 10px;
 }
 
+#video{
+	position: absolute;
+	left: 50%;
+	top: 0%;
+}
+
+
+@media (max-width: 960px){
+	#video{
+		position: absolute;
+		top: 150%;
+		left: 0;
+	}
+}
