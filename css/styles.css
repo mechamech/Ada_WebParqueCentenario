@@ -4,7 +4,7 @@
 }
 
 body {
-	color:green;
+	color:#229954;
 }
 
 #container {
@@ -22,6 +22,7 @@ body {
 
 h1 {
 	font-size:92px;
+	font-family:'Patua One';
 	color:white;
 }
 
