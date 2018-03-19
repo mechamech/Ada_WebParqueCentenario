@@ -28,6 +28,7 @@ h1 {
 
 h2 {
 	margin-bottom:15px;
+	font-weight: bold;
 }
 
 #quote, .info, #gallery, footer {
@@ -35,7 +36,11 @@ h2 {
 }
 
 .info {	
+	background-color: #229954;
+	padding:10px;
+	text-align:center;
 	font-size:28px;
+	color:white;
 }
 
 footer{
